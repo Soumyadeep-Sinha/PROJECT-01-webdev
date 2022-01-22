@@ -1,0 +1,197 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header img {
+    width: 100%;
+}
+
+.topbar {
+    background-color: #1d2a57;
+    height: fit-content;
+    color: white;
+    padding: 20px;
+    border: none;
+}
+
+.topbar p {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 22px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.btnlogout {
+    padding: 10px;
+    background-color: #DC3545;
+    border: 2px solid #DC3545;
+    border-radius: 6px;
+    color: white;
+    font-family: sans-serif;
+    border-radius: 6px;
+    display: block;
+    width: 100px;
+    margin-right: 10px;
+    margin-left: auto;
+    margin-top: 10px;
+}
+
+.seatstatus {
+    padding: 10px;
+    background-color: #DC3545;
+    border: 2px solid #DC3545;
+    border-radius: 6px;
+    color: white;
+    font-family: sans-serif;
+    border-radius: 6px;
+    display: block;
+    width: 200px;
+    margin-right: auto;
+    margin-left: 1px;
+    margin-top: 10px;
+}
+
+.listofcourses {
+    padding: 10px;
+    background-color: #030e75;
+    border: 2px solid #030e75;
+    border-radius: 6px;
+    color: white;
+    font-family: sans-serif;
+    border-radius: 6px;
+    display: block;
+    width: 300px;
+    margin-right: auto;
+    margin-left: 205px;
+    margin-top: -42px;
+}
+
+.btnlogout:hover {
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+
+.seatstatus:hover {
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+
+.listofcourses:hover {
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+
+.studentdetails {
+    height: fit-content;
+    padding: 5px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: firebrick;
+    font-size: 1.2rem;
+    margin: 0px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+hr {
+    margin-top: -15px;
+}
+
+.detailsbox1 {
+    /*border: 2px solid red;*/
+    margin-top: -20px;
+    margin-bottom: 5px;
+    padding: 5px;
+    font-family: sans-serif;
+}
+
+.detailsbox1 span {
+    font-weight: bold;
+    color: #0c0a95
+}
+
+.detailsbox2 {
+    /*border: 2px solid greenyellow;*/
+    margin-top: -104px;
+    margin-bottom: 5px;
+    margin-left: 750px;
+    padding: 5px;
+    font-family: sans-serif;
+}
+
+.detailsbox2 span {
+    font-weight: bold;
+    color: #0c0a95
+}
+
+.table01 {
+    /*border: 2px solid blue;*/
+    font-family: sans-serif;
+    text-align: center;
+}
+
+table,
+tr,
+td,
+th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+
+table {
+    width: 50%;
+    margin: auto;
+}
+
+table th {
+    background-color: teal;
+    color: white;
+}
+
+marquee {
+    color: red;
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.sub {
+    padding: 10px;
+    background-color: #DC3545;
+    border: 2px solid #DC3545;
+    border-radius: 6px;
+    color: white;
+    font-family: sans-serif;
+    border-radius: 6px;
+    display: block;
+    width: 200px;
+    margin-right: 97px;
+    margin-left: auto;
+    margin-top: -195px;
+}
+
+.sub:hover {
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+
+select {
+    width: 1190px;
+    height: 40px;
+    margin: 10px;
+    padding-left: 15px;
+    border: 2px solid grey;
+    border-radius: 6px;
+}
+a{
+    text-decoration: none;
+}
